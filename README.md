@@ -7,7 +7,6 @@ Junior Developer
 I am a junior developer with a background in microbiology. After working as a laboratory technician for 10 years, I realized that I wanted to pursue a career in programming field. As a result, I took several courses to develop my skills to take me to my goal. I completed coding bootcamp at Code Camp Thailand, where I learned the fundamentals of programming languages and frameworks. I also enrolled in a full-time Software Developer Bootcamp at TechUp, which provided me hands-on experience with industry-standard tools and technologies.
 
 * 🌍  I'm based in Samut Prakan, Thailand
-* 🖥️  See my portfolio at [Resume](http://pawida.site)
 * ✉️  You can contact me at [pawida.may@gmail.com](mailto:pawida.may@gmail.com)
 * 🧠  I'm learning React Native, Swift, Java, TypeScript, ReactJS, JavaScript, NodeJS, Angular and Vue
 
