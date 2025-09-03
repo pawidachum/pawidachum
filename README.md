@@ -8,7 +8,7 @@ I am a junior developer with a background in microbiology. After working as a la
 
 * 🌍  I'm based in Samut Prakan, Thailand
 * ✉️  You can contact me at [pawida.may@gmail.com](mailto:pawida.may@gmail.com)
-* 🧠  I'm learning React Native, Swift, Java, TypeScript, ReactJS, JavaScript, NodeJS, Angular and Vue
+* 🧠  I'm learned Dart, TypeScript, ReactJS, JavaScript, NodeJS, Angular, NextJs and Vue
 
 ### Skills
 
